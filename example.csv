@@ -1,0 +1,54 @@
+ numero patient,age  patient ,sexe,Les Urgences En MED DENT,Douleur Spontanée,Douleur Provoquée,Mobilité,Vitalité,Palpation Apicale,Fievre,Asthenie,Odeur Fétide,Médication ATG,Soulager ,Observations Exobuccales ( remarque generale ) 
+50,5,femme,Pulpite reversible,Non ,Froid ,Non,Dent vivante,Négatif,Non,Non,Non,Efficace,eviter la cause,Non
+60,13,homme,Pulpite reversible,Non ,Sucre,Non,Dent vivante,Négatif,Non,Non,Non,Efficace,eviter la cause,Non
+70,12,femme,Pulpite reversible,récente, froid,Non,Dent vivante,Négatif,Non,Non,Non,Efficace,eviter la cause,Non
+80,15,femme,Pulpite reversible,récente,Sucre ,Non,Dent vivante,Négatif,Non,Non,Non,Efficace,eviter la cause,Non
+10,28,femme,Pulpite irreversible symptomatique,Intense,Chaud,Non,Dent vivante,Negatif,Non,Non,Non,"Efficace , si stade avancée non",Froid,Non
+20,5,homme,Pulpite irreversible symptomatique,Intense , position allongée,Non,Dent vivante,Negatif,Non,Non,Non,"Efficace , si stade avancée non",Froid,Non
+3,88,femme,Pulpite irreversible symptomatique,Intense,effort physique ,Non,Dent vivante,Negatif,Non,Non,Non,"Efficace , si stade avancée non",Froid,Non
+40,32,femme,Pulpite irreversible symptomatique,Intense ,Parfois a la mastication ,Non,Dent vivante,Negatif,Non,Non,Non,"Efficace , si stade avancée non",Froid,Non
+21,11,femme,Pulpite irreversible symptomatique, pulsatile ,Chaud,Non,Dent vivante,Negatif,Non,Non,Non,"Efficace , si stade avancée non",Froid,Non
+2,58,femme,Pulpite irreversible symptomatique, pulsatile, position allongée,Non,Dent vivante,Negatif,Non,Non,Non,"Efficace , si stade avancée non",Froid,Non
+5,352,homme,Pulpite irreversible symptomatique, pulsatile , effort physique,Non,Dent vivante,Negatif,Non,Non,Non,"Efficace , si stade avancée non",Froid,Non
+29,55,femme ,Pulpite irreversible symptomatique,pulsatile,Parfois a la mastication ,Non,Dent vivante,Negatif,Non,Non,Non,"Efficace , si stade avancée non",Froid,Non
+65,88,homme,Pulpite irreversible symptomatique, irradiée,Chaud,Non,Dent vivante,Negatif,Non,Non,Non,"Efficace , si stade avancée non",Froid,Non
+23,26,femme ,Pulpite irreversible symptomatique,irradiée ,position allongée ,Non,Dent vivante,Negatif,Non,Non,Non,"Efficace , si stade avancée non",Froid,Non
+26,69,femme,Pulpite irreversible symptomatique, irradiée , effort physique,Non,Dent vivante,Negatif,Non,Non,Non,"Efficace , si stade avancée non",Froid,Non
+95,54,male ,Pulpite irreversible symptomatique,irradiée,Parfois a la mastication ,Non,Dent vivante,Negatif,Non,Non,Non,"Efficace , si stade avancée non",Froid,Non
+54,74,homme,Pulpite irreversible symptomatique, prolongée,Chaud  ,Non,Dent vivante,Negatif,Non,Non,Non,"Efficace , si stade avancée non",Froid,Non
+66,12,femme,Pulpite irreversible symptomatique,prolongée, position allongée ,Non,Dent vivante,Negatif,Non,Non,Non,"Efficace , si stade avancée non",Froid,Non
+21,3,homme,Pulpite irreversible symptomatique, prolongée,effort physique,Non,Dent vivante,Negatif,Non,Non,Non,"Efficace , si stade avancée non",Froid,Non
+58,6,femme,Pulpite irreversible symptomatique, prolongée, Parfois a la mastication ,Non,Dent vivante,Negatif,Non,Non,Non,"Efficace , si stade avancée non",Froid,Non
+25,85,homme,Pulpite irreversible asymptomatique,Non,Froid ,Non,Dent vivante,Negatif,Non,Non,Non,Efficace,RIEN,Non
+1,19,homme,Pulpite irreversible asymptomatique,Non,chaud ,Non,Dent vivante,Negatif,Non,Non,Non,Efficace,RIEN,Non
+5,55,femme femme, Pulpite irreversible asymptomatique,Non,mastication,Non,Dent vivante,Negatif,Non,Non,Non,Efficace,RIEN,Non
+78,25,male ,Parodontite apicale aiguë,Oui,pression,1,Dent morte,Negatif,"Oui , locale ",Non,Odeur fétide,NON efficace,Froid,Sensation de dent longue
+5,35,femme, Parodontite apicale aiguë,Oui,chaud ,1,Dent morte,Negatif,"Oui , locale ",Non,Odeur fétide,NON efficace,Froid,Sensation de dent longue
+42,36,homme, Parodontite apicale aiguë,Oui,Mastication ,1,Dent morte,Negatif,"Oui , locale ",Non,Odeur fétide,NON efficace,Froid,Sensation de dent longue
+6,37,homme, Abcès apicale Aigu,Continue, chaud ,1+,Dent Morte,Douleur avec comblement,Oui,Oui,Oui,NON efficace ,Parfois par le froid,Sensation de dent longue
+32,1,male ,Abcès apicale Aigu,Continue,Mastication ,1+,Dent Morte,Douleur avec comblement,Oui,Oui,Oui,NON efficace ,Parfois par le froid,Sensation de dent longue
+3,5,homme, Abcès apicale Aigu,Continue,pression,1+,Dent Morte,Douleur avec comblement,Oui,Oui,Oui,NON efficace ,Parfois par le froid,Sensation de dent longue
+58,14,femme,Cellulite,Continue,Mastication ,1+,Dent Morte,Douleur avec comblement,Oui,Oui,NON,NON efficace ,Parfois par le froid,Asymétrie Faciale
+61,8,femme,Cellulite,Continue,chaud ,1+,Dent Morte,Douleur avec comblement,Oui,Oui,NON,NON efficace ,Parfois par le froid,Asymétrie Faciale
+85,88,femme,Cellulite,Continue,pression,1+,Dent Morte,Douleur avec comblement,Oui,Oui,NON,NON efficace ,Parfois par le froid,Asymétrie Faciale
+45,54,femme,Abcès apical chronique,Occassionnellement,Non,1,Dent morte,Négatif,Non,Non,Oui,Oui,Rien,Parfois orifice
+71,66,femme,Septite,Non,Mastication,Non,Dent vivante,Douleur si pression,Non,Non,Oui avec mauvais gout,NON,Eviter la mastication,Non
+41,32,homme ,Gingivite,Oui,non,1,dent vivante,Douleur si pression,Non,Non,Oui,Oui,Rien,saignement au brossage
+7,59,femme , Traumatisme Dentaire,Oui,au contact ,Oui,Vivante,Négatif,NON,Non,Non,Non,Sans contact,Trauma qui affecte la région
+19,64,male ,Extrusion dentaire,Oui,au contact ,Oui,Vivante,Oui,Non,Non,Non,Oui,Rien,dent en main
+51,57,femme ,Péricoronarite,Oui irradiante vers l'oreil ,au contact ,non,oui,non,oui,non,Oui,Oui,Brossage ,Limitation de l'ouverture buccale + capuchon muqueux postérieur mandibulaire
+2,12,femme,Pulpite reversible,Non ,Froid ,Non,Dent vivante,Négatif,Non,Non,Non,Efficace,eviter la cause,Non
+3,54,femme,Pulpite reversible,Non ,Sucre,Non,Dent vivante,Négatif,Non,Non,Non,Efficace,eviter la cause,Non
+5,51,homme,Pulpite reversible,récente, froid,Non,Dent vivante,Négatif,Non,Non,Non,Efficace,eviter la cause,Non
+13,52,femme,Pulpite reversible,récente,Sucre ,Non,Dent vivante,Négatif,Non,Non,Non,Efficace,eviter la cause,Non
+12,58,femme,Pulpite irreversible symptomatique,Intense,Chaud,Non,Dent vivante,Negatif,Non,Non,Non,"Efficace , si stade avancée non",Froid,Non
+15,56,femme,Pulpite irreversible symptomatique,Intense , position allongée,Non,Dent vivante,Negatif,Non,Non,Non,"Efficace , si stade avancée non",Froid,Non
+28,57,femme,Pulpite irreversible symptomatique,Intense,effort physique ,Non,Dent vivante,Negatif,Non,Non,Non,"Efficace , si stade avancée non",Froid,Non
+5,51,homme,Pulpite irreversible symptomatique,Intense ,Parfois a la mastication ,Non,Dent vivante,Negatif,Non,Non,Non,"Efficace , si stade avancée non",Froid,Non
+88,2,femme ,Abcès apical chronique,Occassionnellement,Non,1,Dent morte,Négatif,Non,Non,Oui,Oui,Rien,Parfois orifice
+32,36,homme,Septite,Non,Mastication,Non,Dent vivante,Douleur si pression,Non,Non,Oui avec mauvais gout,NON,Eviter la mastication,Non
+11,36,femme ,Gingivite,Oui,non,1,dent vivante,Douleur si pression,Non,Non,Oui,Oui,Rien,saignement au brossage
+58,35,femme, Traumatisme Dentaire,Oui,au contact ,Oui,Vivante,Négatif,NON,Non,Non,Non,Sans contact,Trauma qui affecte la région
+352,38,male ,Extrusion dentaire,Oui,au contact ,Oui,Vivante,Oui,Non,Non,Non,Oui,Rien,dent en main
+55,39,homme,Péricoronarite,Oui irradiante vers l'oreil ,au contact ,non,oui,non,oui,non,Oui,Oui,Brossage ,Limitation de l'ouverture buccale + capuchon muqueux postérieur mandibulaire
+88,50,femme,Pulpite reversible,Non ,Froid ,Non,Dent vivante,Négatif,Non,Non,Non,Efficace,eviter la cause,Non
